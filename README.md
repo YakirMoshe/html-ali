@@ -12,7 +12,7 @@ balizol-site/
 │  ├─ tos.html           # תנאי שימוש
 │  ├─ _headers           # הגדרות Netlify
 │  ├─ _redirects         # הפניות Netlify
-│  └─ tiktokJMEsZOpwg3IslG7I3RvwZIWFQmMvWZYO.txt  # אימות TikTok
+│  └─ tiktoke7iGrQOHTmVCjTU4JXiRiYdXUKqZ1gxS.txt  # אימות TikTok
 └─ README.md
 ```
 
@@ -30,19 +30,19 @@ balizol-site/
 6. Deploy site
 
 ### 3. אימות TikTok
-1. פתח את הדומיין שקיבלת (למשל: https://balizol-deals.netlify.app/)
+1. פתח את הדומיין שקיבלת (למשל: https://balizol-site.netlify.app/)
 2. בדוק שכל הדפים עובדים
 3. ב-TikTok Dev Portal:
-   - URL prefix: `https://balizol-deals.netlify.app/`
-   - Terms of Service: `https://balizol-deals.netlify.app/tos.html`
-   - Privacy Policy: `https://balizol-deals.netlify.app/privacy.html`
-   - Redirect URI: `https://balizol-deals.netlify.app/tiktok/callback`
+   - URL prefix: `https://balizol-site.netlify.app/`
+   - Terms of Service: `https://balizol-site.netlify.app/tos.html`
+   - Privacy Policy: `https://balizol-site.netlify.app/privacy.html`
+   - Redirect URI: `https://balizol-site.netlify.app/tiktok/callback`
 
 ## בדיקות ידניות
-- [ ] https://balizol-deals.netlify.app/
-- [ ] https://balizol-deals.netlify.app/tos.html
-- [ ] https://balizol-deals.netlify.app/privacy.html
-- [ ] https://balizol-deals.netlify.app/tiktokJMEsZOpwg3IslG7I3RvwZIWFQmMvWZYO.txt
+- [ ] https://balizol-site.netlify.app/
+- [ ] https://balizol-site.netlify.app/tos.html
+- [ ] https://balizol-site.netlify.app/privacy.html
+- [ ] https://balizol-site.netlify.app/tiktoke7iGrQOHTmVCjTU4JXiRiYdXUKqZ1gxS.txt
 
 ## הערות חשובות
 - אם TikTok יפיק קובץ אימות חדש - עדכן את השם ב-`_headers` ובקובץ עצמו
