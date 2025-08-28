@@ -1,0 +1,9 @@
+<!doctype html><meta charset="utf-8">
+<title>TikTok callback</title>
+<script>
+  const p = new URLSearchParams(location.search);
+  const code = p.get('code');
+  document.body.innerHTML = code
+    ? `<h1>Code received</h1><pre>${code}</pre>`
+    : `<h1>No code in query</h1>`;
+</script>
